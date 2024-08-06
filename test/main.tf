@@ -1,0 +1,1 @@
+{"statusCode": 500, "body": "\"Error fetching image from S3: An error occurred (NoSuchKey) when calling the GetObject operation: The specified key does not exist.\""}
